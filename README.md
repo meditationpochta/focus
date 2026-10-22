@@ -1,2 +1,2 @@
 # focus
-tool for my work in many project
+tool for my work with many project
